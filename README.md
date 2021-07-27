@@ -1,8 +1,13 @@
 - 👋 Hi, I’m Snehangsu
-- 👀 Interested : ML
-- 🌱 Learning: The Art of Data Science
+- 👀 Interested : Data Science, Web Development and Machine Learning
+- 🌱 Learning: Applied Machine Learning concepts 🔜 Julia
 - 💞️ Collaboration : Projects in python
 - 📫 Twitter: @_snehangsu | Yahoo: d_snehangsu@yahoo.in
+
+Skills:
+- Python
+- HTML
+- CSS
 
 <!---
 snehangsude/snehangsude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
