@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Snehangsu
-- 👀 Interested : Data Science, Web Development and Machine Learning
+- 👀 Interested : Data Science and Machine Learning
 - 🌱 Learning: Applied Machine Learning concepts 🔜 Julia
 - 💞️ Collaboration : Projects in python
 - 📫 Twitter: @_snehangsu | Yahoo: d_snehangsu@yahoo.in
