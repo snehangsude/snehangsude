@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=snehangsude&label=Views 👀&color=003638&style=flat" alt="snehangsude" /> </p>
-<p align="center"> <a href="https://twitter.com/_xSpace" target="blank"><img src="https://img.shields.io/twitter/follow/_xSpace?logo=twitter&style=for-the-badge" alt="_xSpace" /></a>
+<p align="center"> <a href="https://twitter.com/__xSpace" target="blank"><img src="https://img.shields.io/twitter/follow/__xSpace?logo=twitter&style=for-the-badge" alt="__xSpace" /></a>
 </p>
 
 
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 <hr>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-<a href="https://twitter.com/_xSpace" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384065.png" alt="_xSpace" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/__xSpace" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384065.png" alt="__xSpace" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/snehangsu-de-2a6a8852" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="snehangsude" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <hr>
