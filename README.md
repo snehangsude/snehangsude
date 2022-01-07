@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 <hr>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-<a href="https://twitter.com/__xSpace" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384065.png" alt="__xSpace" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/_Perceptron_" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384065.png" alt="__xSpace" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/snehangsu-de-2a6a8852" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="snehangsude" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <hr>
