@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=snehangsude&label=Views 👀&color=003638&style=flat" alt="snehangsude" /> </p>
-<p align="center"> <a href="https://twitter.com/_Perceptron_" target="blank"><img src="https://img.shields.io/twitter/follow/__xSpace?logo=twitter&style=for-the-badge" alt="__xSpace" /></a>
+<p align="center"> <a href="https://twitter.com/_Perceptron_" target="blank"><img src="https://img.shields.io/twitter/follow/_Perceptron_?logo=twitter&style=for-the-badge" alt="__xSpace" /></a>
 </p>
 
 
