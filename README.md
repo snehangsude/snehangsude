@@ -3,7 +3,7 @@
 snehangsude/snehangsude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hey! I'm Snehangsu <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="left">Hey! I'm Snehangsu <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="40"
          width="40"/></h1>
@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
   - 💪🏼 Working: HugGAN sprint and a NLP project for sentiment analysis
 </h4>
 </div>
+<hr width='40%'>
 
 ### Skills
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
@@ -30,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <br>
-
+<hr width='40%'>
 <p>
   <a align= "left" href="https://github.com/snehangsude">
 <div align='left'>
@@ -44,6 +45,8 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://twitter.com/_Perceptron_" target="blank"><img src="https://img.shields.io/twitter/follow/_Perceptron_?logo=twitter&style=for-the-badge" alt="_Perceptron_" /></a>
 </p>
 
+<hr width='40%'>
+
 ### Latest Posts:
 
 - [Audible Data Analysis and Visualization](https://snehangsude.github.io/xSpace/audible/data_analysis/data_visulization/tabular_data/matplotlib/seaborn/2022/04/11/audible-eda.html)
@@ -54,14 +57,10 @@ You can click the Preview link to take a look at your changes.
 [View All Blogposts](https://xspace.hashnode.dev/) ||
 [View All Notebooks](https://snehangsude.github.io/xSpace/)
 
-<br><br>
-<hr>
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-<a href="https://twitter.com/_Perceptron_" target="blank"><img align="center" width="26px" height="26px" src="https://image.flaticon.com/icons/png/512/1384/1384065.png" alt="Twitter" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/snehangsu-de-2a6a8852" target="blank"><img align="center" width="26px" height="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <br><br> <a align="center" href="http://snehangsu.bio.link">👉🏽 Every other socials 👈🏼</a>
+<hr width='40%'>
+<div align="left">
+<a href="https://twitter.com/_Perceptron_" target="blank"><img align="center" width="80px" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Twitter_logo.svg" alt="Twitter" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/snehangsu-de-2a6a8852" target="blank"><img align="center" width="80px" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-<hr>
 
