@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h4>
   - 😍 Interested : Data Science and Machine Learning<br><br>
   - 🌱 Learning: Deep Learning and Neural Networks 🔜 Julia<br><br>
-  - 💪🏼 Working: Food Classifier using images
+  - 💪🏼 Working: HugGAN sprint and a NLP project for sentiment analysis
 </h4>
 </div>
 
@@ -46,18 +46,19 @@ You can click the Preview link to take a look at your changes.
 
 ### Latest Blog Posts:
 
+- [Audible Data Analysis and Visualization](https://snehangsude.github.io/xSpace/audible/data_analysis/data_visulization/tabular_data/matplotlib/seaborn/2022/04/11/audible-eda.html)
+- [Audible Data Cleaning](https://snehangsude.github.io/xSpace/audible/data_wrangling/data_cleaning/tabular_data/2022/04/11/audible-cleaner.html)
 - [The Elegance of Classes](https://xspace.hashnode.dev/the-elegance-of-classes)
-- [5 Ways to Train Your Mind for Success](https://xspace.hashnode.dev/5-ways-to-train-your-mind-for-success)
-- [The Many Face of Functions](https://xspace.hashnode.dev/the-many-face-of-functions)
 
-[View All](https://xspace.hashnode.dev/)
 
+[View All Blogposts](https://xspace.hashnode.dev/)
+[View All Notebooks](https://snehangsude.github.io/xSpace/)
 
 <br><br>
 <hr>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-<a href="https://twitter.com/_Perceptron_" target="blank"><img align="center" width="26px" height="26px" src="https://image.flaticon.com/icons/png/512/1384/1384065.png" alt="__xSpace" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/_Perceptron_" target="blank"><img align="center" width="26px" height="26px" src="https://image.flaticon.com/icons/png/512/1384/1384065.png" alt="_Perceptron_" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/snehangsu-de-2a6a8852" target="blank"><img align="center" width="26px" height="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="snehangsude" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <br><br> <a align="center" href="http://snehangsu.bio.link">👉🏽 Every other socials 👈🏼</a>
 </div>
