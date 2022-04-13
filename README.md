@@ -34,14 +34,14 @@ You can click the Preview link to take a look at your changes.
 <p>
   <a align= "left" href="https://github.com/snehangsude">
 <div align='left'>
-    <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=snehangsude&theme=gruvbox&show_icons=true&count_private=true" />
+    <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=snehangsude&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" />
 </div>
 <div align='left'>
-    <img alt="lang card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehangsude&theme=gruvbox">  
+    <img alt="lang card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehangsude&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">  
 </div>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehangsude&label=Views 👀&color=003638&style=flat" alt="snehangsude" /> </p>
-<p align="left"> <a href="https://twitter.com/_Perceptron_" target="blank"><img src="https://img.shields.io/twitter/follow/_Perceptron_?logo=twitter&style=for-the-badge" alt="__xSpace" /></a>
+<p align="left"> <a href="https://twitter.com/_Perceptron_" target="blank"><img src="https://img.shields.io/twitter/follow/_Perceptron_?logo=twitter&style=for-the-badge" alt="_Perceptron_" /></a>
 </p>
 
 ### Latest Posts:
