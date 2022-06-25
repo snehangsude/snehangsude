@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 <div align='lef'>
 <h4>
   - 😍 Interested : Data Science and Machine Learning<br><br>
-  - 🌱 Learning: Deep Learning and Neural Networks 🔜 Julia<br><br>
-  - 💪🏼 Working: HugGAN sprint and a NLP project for sentiment analysis
+  - 🌱 Learning: Model Deployment and Automation 🔜 Julia<br><br>
+  - 💪🏼 Working: VQA model using Hugging Face
 </h4>
 </div>
 <hr width='40%'>
