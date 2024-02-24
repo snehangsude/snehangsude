@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 <div align='lef'>
 <h4>
-  - 😍 Interested : Data Science and Machine Learning<br><br>
-  - 🌱 Learning: Model Deployment and Automation 🔜 Julia<br><br>
-  - 💪🏼 Working: VQA model using Hugging Face
+  - 😍 Interested : Data Engineering<br><br>
+  - 🌱 Learning: Apache Flink<br><br>
+  - 💪🏼 Working: beyond-the-bias
 </h4>
 </div>
 <hr width='40%'>
