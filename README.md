@@ -12,16 +12,16 @@ I'm Snehangsu, Data Engineer from India 🇮🇳.
 <p>
          <img alt="Static Badge" src="https://img.shields.io/badge/Python-ece2fa?style=for-the-badge&logo=Python&logoColor=black">
          <img alt="Static Badge" src="https://img.shields.io/badge/Bash-ece2fa?style=for-the-badge&logo=gnubash&logoColor=black">
-         <img alt="Static Badge" src="https://img.shields.io/badge/Docker-ece2fa?style=for-the-badge&logo=docker&logoColor=black"> <br>
+         <img alt="Static Badge" src="https://img.shields.io/badge/Docker-ece2fa?style=for-the-badge&logo=docker&logoColor=black"> 
          <img alt="Static Badge" src="https://img.shields.io/badge/Postgresql-ece2fa?style=for-the-badge&logo=postgresql&logoColor=black">
          <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Cassandra-ece2fa?style=for-the-badge&logo=apachecassandra&logoColor=black">
          <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-ece2fa?style=for-the-badge&logo=mongodb&logoColor=black"> 
-         <img alt="Static Badge" src="https://img.shields.io/badge/DBT-ece2fa?style=for-the-badge&logo=dbt&logoColor=black"><br>
+         <img alt="Static Badge" src="https://img.shields.io/badge/DBT-ece2fa?style=for-the-badge&logo=dbt&logoColor=black">
          <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Dataproc-ece2fa?style=for-the-badge&logo=googledataproc&logoColor=black">
          <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Cloud%20Platform-ece2fa?style=for-the-badge&logo=googlecloud&logoColor=black">
          <img alt="Static Badge" src="https://img.shields.io/badge/Google%20BigQuery-ece2fa?style=for-the-badge&logo=googlebigquery&logoColor=black">
          <img alt="Static Badge" src="https://img.shields.io/badge/AWS%20Lambda-ece2fa?style=for-the-badge&logo=awslambda&logoColor=black">
-         <img alt="Static Badge" src="https://img.shields.io/badge/Terraform-ece2fa?style=for-the-badge&logo=terraform&logoColor=black"> <br>         
+         <img alt="Static Badge" src="https://img.shields.io/badge/Terraform-ece2fa?style=for-the-badge&logo=terraform&logoColor=black">       
          <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Spark-ece2fa?style=for-the-badge&logo=apachespark&logoColor=black">
          <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Druid-ece2fa?style=for-the-badge&logo=apachedruid&logoColor=black">
          <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Flink-ece2fa?style=for-the-badge&logo=apacheflink&logoColor=black">
