@@ -27,7 +27,7 @@ I'm Snehangsu, Data Engineer from India 🇮🇳.
          <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Flink-ece2fa?style=for-the-badge&logo=apacheflink&logoColor=black">
          <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Kafka-ece2fa?style=for-the-badge&logo=apachekafka&logoColor=black">
          <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Hadoop-ece2fa?style=for-the-badge&logo=apachehadoop&logoColor=black">
-         <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Parquet-ece2fa?style=for-the-badge&logo=apacheparquet&logoColor=black"> <br>
+         <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Parquet-ece2fa?style=for-the-badge&logo=apacheparquet&logoColor=black">
          <img alt="Static Badge" src="https://img.shields.io/badge/Prefect-ece2fa?style=for-the-badge&logo=prefect&logoColor=black">
          <img alt="Static Badge" src="https://img.shields.io/badge/Git-ece2fa?style=for-the-badge&logo=git&logoColor=black">
          <img alt="Static Badge" src="https://img.shields.io/badge/Selenium-ece2fa?style=for-the-badge&logo=selenium&logoColor=black">
